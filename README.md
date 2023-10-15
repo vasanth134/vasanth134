@@ -82,7 +82,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vasanth134/vasanth134/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -94,8 +93,10 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31omj7vfc26nfs6hxo3hszi4lwey">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-2.svg" alt="Spotify recently played"  style="height: 100px; width: 200px;">
   </a>
+ 
+      
 </div>
 
 ###
