@@ -86,15 +86,15 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/vasanth134/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/vasanth134/count.svg?"  /> -->
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31omj7vfc26nfs6hxo3hszi4lwey">
+<!--   <a href="https://open.spotify.com/user/31omj7vfc26nfs6hxo3hszi4lwey">
     <img src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-2.svg" alt="Spotify recently played"  style="height: 100px; width: 200px;">
-  </a>
+  </a> -->
  
       
 </div>
